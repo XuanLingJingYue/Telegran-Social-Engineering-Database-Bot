@@ -44,4 +44,4 @@
 
 # 贡献说明
 
-如需提供或添加其他机器人请移步[issues](https://github.com/XuanLingJingYue/Telegran-Social-Engineering-Database-Bot/issues)提交
+如需提供或添加其他机器人请移步[issues](https://github.com/ZouGuoDaHuang/Telegran-Shegongku-Bot/issues)提交
